@@ -1,0 +1,22 @@
+{
+  "name": "express-routing-exercise",
+  "version": "1.0.0",
+  "description": "Class work for Springboard Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wndaniels/express-routing-exercise-sb.git"
+  },
+  "author": "wndaniels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wndaniels/express-routing-exercise-sb/issues"
+  },
+  "homepage": "https://github.com/wndaniels/express-routing-exercise-sb#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
